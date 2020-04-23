@@ -1,0 +1,10 @@
+D:\syst\syst\bin\Debug\syst.exe.config
+D:\syst\syst\bin\Debug\syst.exe
+D:\syst\syst\bin\Debug\syst.pdb
+D:\syst\syst\bin\Debug\MySql.Data.dll
+D:\syst\syst\bin\Debug\Ubiety.Dns.Core.dll
+D:\syst\syst\bin\Debug\Renci.SshNet.dll
+D:\syst\syst\bin\Debug\MySql.Data.xml
+D:\syst\syst\obj\Debug\syst.csprojResolveAssemblyReference.cache
+D:\syst\syst\obj\Debug\syst.exe
+D:\syst\syst\obj\Debug\syst.pdb

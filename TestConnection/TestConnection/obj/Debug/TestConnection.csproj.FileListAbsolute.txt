@@ -1,0 +1,11 @@
+D:\TestConnection\TestConnection\bin\Debug\TestConnection.dll
+D:\TestConnection\TestConnection\bin\Debug\TestConnection.pdb
+D:\TestConnection\TestConnection\bin\Debug\MySql.Data.dll
+D:\TestConnection\TestConnection\bin\Debug\syst.exe
+D:\TestConnection\TestConnection\bin\Debug\Ubiety.Dns.Core.dll
+D:\TestConnection\TestConnection\bin\Debug\Renci.SshNet.dll
+D:\TestConnection\TestConnection\bin\Debug\syst.pdb
+D:\TestConnection\TestConnection\bin\Debug\MySql.Data.xml
+D:\TestConnection\TestConnection\obj\Debug\TestConnection.csprojResolveAssemblyReference.cache
+D:\TestConnection\TestConnection\obj\Debug\TestConnection.dll
+D:\TestConnection\TestConnection\obj\Debug\TestConnection.pdb

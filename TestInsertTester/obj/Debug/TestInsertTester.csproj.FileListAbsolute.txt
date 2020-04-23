@@ -1,0 +1,11 @@
+D:\TestInsertTester\bin\Debug\TestInsertTester.dll
+D:\TestInsertTester\bin\Debug\TestInsertTester.pdb
+D:\TestInsertTester\bin\Debug\MySql.Data.dll
+D:\TestInsertTester\bin\Debug\syst.exe
+D:\TestInsertTester\bin\Debug\Ubiety.Dns.Core.dll
+D:\TestInsertTester\bin\Debug\Renci.SshNet.dll
+D:\TestInsertTester\bin\Debug\syst.pdb
+D:\TestInsertTester\bin\Debug\MySql.Data.xml
+D:\TestInsertTester\obj\Debug\TestInsertTester.csprojResolveAssemblyReference.cache
+D:\TestInsertTester\obj\Debug\TestInsertTester.dll
+D:\TestInsertTester\obj\Debug\TestInsertTester.pdb

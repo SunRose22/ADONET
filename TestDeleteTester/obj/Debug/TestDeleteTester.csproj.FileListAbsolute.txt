@@ -1,0 +1,11 @@
+D:\TestDeleteTester\bin\Debug\TestDeleteTester.dll
+D:\TestDeleteTester\bin\Debug\TestDeleteTester.pdb
+D:\TestDeleteTester\bin\Debug\MySql.Data.dll
+D:\TestDeleteTester\bin\Debug\syst.exe
+D:\TestDeleteTester\bin\Debug\Ubiety.Dns.Core.dll
+D:\TestDeleteTester\bin\Debug\Renci.SshNet.dll
+D:\TestDeleteTester\bin\Debug\syst.pdb
+D:\TestDeleteTester\bin\Debug\MySql.Data.xml
+D:\TestDeleteTester\obj\Debug\TestDeleteTester.dll
+D:\TestDeleteTester\obj\Debug\TestDeleteTester.pdb
+D:\TestDeleteTester\obj\Debug\TestDeleteTester.csprojResolveAssemblyReference.cache

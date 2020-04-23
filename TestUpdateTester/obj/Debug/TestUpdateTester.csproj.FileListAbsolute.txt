@@ -1,0 +1,11 @@
+D:\TestUpdateTester\bin\Debug\TestUpdateTester.dll
+D:\TestUpdateTester\bin\Debug\TestUpdateTester.pdb
+D:\TestUpdateTester\bin\Debug\MySql.Data.dll
+D:\TestUpdateTester\bin\Debug\syst.exe
+D:\TestUpdateTester\bin\Debug\Ubiety.Dns.Core.dll
+D:\TestUpdateTester\bin\Debug\Renci.SshNet.dll
+D:\TestUpdateTester\bin\Debug\syst.pdb
+D:\TestUpdateTester\bin\Debug\MySql.Data.xml
+D:\TestUpdateTester\obj\Debug\TestUpdateTester.csprojResolveAssemblyReference.cache
+D:\TestUpdateTester\obj\Debug\TestUpdateTester.dll
+D:\TestUpdateTester\obj\Debug\TestUpdateTester.pdb
