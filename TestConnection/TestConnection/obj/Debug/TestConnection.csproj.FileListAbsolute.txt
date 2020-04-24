@@ -9,3 +9,4 @@ D:\TestConnection\TestConnection\bin\Debug\MySql.Data.xml
 D:\TestConnection\TestConnection\obj\Debug\TestConnection.csprojResolveAssemblyReference.cache
 D:\TestConnection\TestConnection\obj\Debug\TestConnection.dll
 D:\TestConnection\TestConnection\obj\Debug\TestConnection.pdb
+D:\TestConnection\TestConnection\bin\Debug\TestConnection.dll.config

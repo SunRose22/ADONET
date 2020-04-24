@@ -115,7 +115,7 @@ namespace syst
         //Проверка подключения
         public static int Connection()
         {
-            string connectionString = "server = localhost; port = 3306; username = root; password = girlgurren*22$@piece; database = system_manager";
+            string connectionString = ConfigurationManager.ConnectionStrings["DefaultConnection"].ConnectionString;
 
             MySqlConnection connection = new MySqlConnection(connectionString);
             try
@@ -126,6 +126,7 @@ namespace syst
             catch (MySqlException ex)
             {
                 Console.WriteLine(ex.Message);
+                return 1;
             }
             finally
             {

@@ -9,3 +9,4 @@ D:\TestDeleteTester\bin\Debug\MySql.Data.xml
 D:\TestDeleteTester\obj\Debug\TestDeleteTester.dll
 D:\TestDeleteTester\obj\Debug\TestDeleteTester.pdb
 D:\TestDeleteTester\obj\Debug\TestDeleteTester.csprojResolveAssemblyReference.cache
+D:\TestDeleteTester\bin\Debug\TestDeleteTester.dll.config

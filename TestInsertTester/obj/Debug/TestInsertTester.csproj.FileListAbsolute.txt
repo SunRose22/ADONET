@@ -9,3 +9,4 @@ D:\TestInsertTester\bin\Debug\MySql.Data.xml
 D:\TestInsertTester\obj\Debug\TestInsertTester.csprojResolveAssemblyReference.cache
 D:\TestInsertTester\obj\Debug\TestInsertTester.dll
 D:\TestInsertTester\obj\Debug\TestInsertTester.pdb
+D:\TestInsertTester\bin\Debug\TestInsertTester.dll.config

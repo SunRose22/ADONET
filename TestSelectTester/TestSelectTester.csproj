@@ -40,6 +40,7 @@
       <HintPath>C:\Users\tomin\Downloads\mysql-connector-net-8.0.19-noinstall\v4.8\MySql.Data.dll</HintPath>
     </Reference>
     <Reference Include="System" />
+    <Reference Include="System.Configuration" />
     <Reference Include="System.Data" />
   </ItemGroup>
   <Choose>
@@ -63,6 +64,11 @@
       <Project>{1e349dee-a09d-4dab-af87-4518f3b02db3}</Project>
       <Name>syst</Name>
     </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="..\syst\syst\App.config">
+      <Link>App.config</Link>
+    </None>
   </ItemGroup>
   <Choose>
     <When Condition="'$(VisualStudioVersion)' == '10.0' And '$(IsCodedUITest)' == 'True'">

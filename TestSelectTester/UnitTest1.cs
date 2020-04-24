@@ -1,7 +1,10 @@
-﻿using System;
-using Microsoft.VisualStudio.TestTools.UnitTesting;
+﻿using Microsoft.VisualStudio.TestTools.UnitTesting;
 using syst;
+using System;
+using System.Data.SqlClient;
+using System.Configuration;
 using MySql.Data.MySqlClient;
+
 
 namespace TestSelectTester
 {
@@ -12,7 +15,7 @@ namespace TestSelectTester
         [TestMethod]
         public void TestSelect()
         {
-            string connectionString = "server=localhost; port=3306; username=root; password=girlgurren*22$@piece; database=system_manager";
+            string connectionString = ConfigurationManager.ConnectionStrings["DefaultConnection"].ConnectionString;
             MySqlConnection connection = new MySqlConnection(connectionString);
 
             connection.Open();

@@ -9,3 +9,4 @@ D:\TestSelectTester\bin\Debug\syst.pdb
 D:\TestSelectTester\bin\Debug\MySql.Data.xml
 D:\TestSelectTester\obj\Debug\TestSelectTester.dll
 D:\TestSelectTester\obj\Debug\TestSelectTester.pdb
+D:\TestSelectTester\bin\Debug\TestSelectTester.dll.config
